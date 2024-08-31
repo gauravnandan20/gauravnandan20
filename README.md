@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav Nandan and I'm a Passionate Developer</h2>
+<h2 align="left">Hi My name is Gaurav Nandan and I'm a Passionate Developer</h2>
 
 ###
 
