@@ -1,4 +1,4 @@
-<h2 align="left">Hi My name is Gaurav Nandan and I'm a Passionate Developer</h2>
+<h2 align="left">Hi, My name is Gaurav Nandan and I'm a Passionate Developer</h2>
 
 ###
 
@@ -45,5 +45,3 @@
 <br clear="both">
 <img src="https://cdn.jsdelivr.net/gh/maurodesouza/maurodesouza@output/snake.svg" alt="Snake animation" />
 
-
-###
